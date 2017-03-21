@@ -1,0 +1,205 @@
+#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1, FOX NEWS
+http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
+#EXTINF:-1, CBS NEWS HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1, CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1, BLOOMBERG HD
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL HD
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1, ANIMAL PLANET HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, RT DOCUMENTARY CHANNEL
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+#EXTINF:-1, RAI NEWS
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+#EXTINF:-1, HISTORY LAB – ITÁLIA
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1, DW HD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1, FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,TV5 MONDE
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:-1,USA
+http://208.86.19.123:8080/live/11.stream/index.m3u8
+#EXTINF:-1,Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:-1,TNT
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:-1,CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1,BBC America
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+#EXTINF:-1,CBS 2
+http://208.86.19.13:8080/live/101.stream/index.m3u8
+#EXTINF:-1,NBC 4
+http://208.86.19.123:8080/live/102.stream/index.m3u8
+#EXTINF:-1,ABC 7
+http://208.86.19.123:8080/live/104.stream/index.m3u8
+#EXTINF:-1,My 9
+http://208.86.19.13:8080/live/105.stream/index.m3u8
+#EXTINF:-1,PIX 11
+http://208.86.19.13:8080/live/106.stream/index.m3u8
+#EXTINF:-1,PBS THIRTEEN
+http://208.86.19.123:8080/live/107.stream/index.m3u8
+#EXTINF:-1,WLIW 21
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+#EXTINF:-1,ION
+http://208.86.19.123:8080/live/109.stream/index.m3u8
+#EXTINF:-1,FILM ASIA
+http://208.86.19.13:8080/live/835.stream/index.m3u8
+#EXTINF:-1,PLUS TV
+http://208.86.19.13:8080/live/837.stream/index.m3u8
+#EXTINF:-1,BTV WORLD
+http://208.86.19.13:8080/live/836.stream/index.m3u8
+#EXTINF:-1,CINEMA-1 TV
+http://208.86.19.13:8080/live/840.stream/index.m3u8
+#EXTINF:-1,PIX2
+http://208.86.19.13:8080/live/106.stream/index.m3u8
+#EXTINF:-1,EI
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+#EXTINF:-1,9 KANAL
+http://208.86.19.13:8080/live/803.stream/index.m3u8
+#EXTINF:-1,ETV
+http://208.86.19.13:8080/live/804.stream/index.m3u8
+#EXTINF:-1,JAMUNA TV
+http://208.86.19.13:8080/live/805.stream/index.m3u8
+#EXTINF:-1,ATN
+http://208.86.19.13:8080/live/806.stream/index.m3u8
+#EXTINF:-1,A PLUS
+http://208.86.19.13:8080/live/831.stream/index.m3u8
+#EXTINF:-1,STAR LITE
+http://208.86.19.13:8080/live/834.stream/index.m3u8
+#EXTINF:-1,Jasmin TV (Adult)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/922.ts
+#EXTINF:-1,Redlight HD (Adult)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/5307.ts
+#EXTINF:-1,Hustler TV (Adult)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/2863.ts
+#EXTINF:-1,Penthouse (Adult)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/9934.ts
+#EXTINF:-1,Viki Enjoy Premium HD (Adult)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/2647.ts
+#EXTINF:-1,DUSK! (Adult)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/925.ts
+#EXTINF:-1,Hot TV (Adult)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/933.ts
+#EXTINF:-1,Bein Sports 1 HD
+http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/10.ts
+#EXTINF:-1,Bein Sports 2 HD
+http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/9.ts
+#EXTINF:-1,Bein Sports 3 HD
+http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/8.ts
+#EXTINF:-1,Bein Sports 4 HD
+http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/7.ts
+#EXTINF:-1,Bein Sports 5 HD
+http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/6.ts
+#EXTINF:-1,TSN 2 HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10097.ts
+#EXTINF:-1,TSN 3 HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10098.ts
+#EXTINF:-1,TSN 4 HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10099.ts
+#EXTINF:-1,TSN 5 HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10100.ts
+#EXTINF:-1,CBS (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/7558.ts
+#EXTINF:-1,TBS (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/7559.ts
+#EXTINF:-1,The Cw Central (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/7560.ts
+#EXTINF:-1,ABC (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/7562.ts
+#EXTINF:-1,Spike (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/7561.ts
+#EXTINF:-1,Own (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/7563.ts
+#EXTINF:-1,Usa Network (USA)
+
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/7555.ts
+#EXTINF:-1,TNT (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10056.ts
+#EXTINF:-1,TLC (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10053.ts
+#EXTINF:-1,TBS HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10054.ts
+#EXTINF:-1,World Fashion HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10102.ts
+#EXTINF:-1,Syfy (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10057.ts
+#EXTINF:-1,Spike HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10058.ts
+#EXTINF:-1,Showtime HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10059.ts
+#EXTINF:-1,PBS HD (USA)
+
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10101.ts
+#EXTINF:-1,Nick (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10055.ts
+#EXTINF:-1,NBC Sports (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10061.ts
+#EXTINF:-1,NBC HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10062.ts
+#EXTINF:-1,NBC (USA)
+
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10064.ts
+#EXTINF:-1,Lifetime (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10065.ts
+#EXTINF:-1,History Channel (USA)
+
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10068.ts
+#EXTINF:-1,HBO Zone HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10069.ts
+#EXTINF:-1,HBO HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10070.ts
+#EXTINF:-1,HBO Family (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10072.ts
+#EXTINF:-1,Global Edminton (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10073.ts
+#EXTINF:-1,FX HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10074.ts
+#EXTINF:-1,Free Form HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10076.ts
+#EXTINF:-1,FOX 43 (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10077.ts
+#EXTINF:-1,ESPN 2 USA (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10078.ts
+#EXTINF:-1,ESPN (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10081.ts
+#EXTINF:-1,Discovery Channel (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10082.ts
+#EXTINF:-1,CW HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10083.ts
+#EXTINF:-1,CTV HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10096.ts
+#EXTINF:-1,Comedy Central HD US (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10084.ts
+#EXTINF:-1,CNN (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10085.ts
+#EXTINF:-1,CNBC (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10086.ts
+#EXTINF:-1,CITY HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10087.ts
+#EXTINF:-1,CBS HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10089.ts
+#EXTINF:-1,Bravo USA (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10090.ts
+#EXTINF:-1,Animal Planet US (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10091.ts
+#EXTINF:-1,AMC (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10092.ts
+#EXTINF:-1,ABC News (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10093.ts
+#EXTINF:-1,ABC HD (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10094.ts
+#EXTINF:-1,A & E (USA)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/10095.ts
+
+
+
